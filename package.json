@@ -1,0 +1,23 @@
+{
+  "name": "practica-backend",
+  "version": "1.0.0",
+  "description": "backend para clase web 6to",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/void-david/practica-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/void-david/practica-backend/issues"
+  },
+  "homepage": "https://github.com/void-david/practica-backend#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "sqlite3": "^5.1.7"
+  }
+}
